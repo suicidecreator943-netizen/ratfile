@@ -23,3 +23,6 @@ https://github.com/Velocidex/velociraptor/releases/download/v0.76/velociraptor-v
 https://www.nirsoft.net/utils/browserdownloadsview-x64.zip
 https://github.com/suicidecreator943-netizen/ratfile/raw/refs/heads/main/DokanSetup.exe
 https://github.com/ufrisk/MemProcFS/releases/download/v5.17/MemProcFS_files_and_binaries-win_x64-latest.zip
+https://download.ericzimmermanstools.com/AmcacheParser.zip
+https://download.ericzimmermanstools.com/MFTECmd.zip
+https://download.ericzimmermanstools.com/PECmd.zip
